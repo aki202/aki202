@@ -7,13 +7,6 @@
 - JS/TS/Ruby/Python/Go
 - 機械学習/クリーンアーキテクチャ
 
-### 👨‍🎓 career
-
-- `2008` 法政大学文学部 自主退学
-- `2011` 株式会社フォーピース
-- `2016` Bizer株式会社（2019年 株式譲渡によりPERSOL傘下）
-- `2021` 電気通信大学情報理工学部 卒業
-
 ### ✏️ writing
 
 そこそこ見てもらったエントリ = 👀
@@ -34,7 +27,12 @@
   - [Q学習による迷路探索](https://twitter.com/aki202/status/1173202378276782082)
   - [Q学習による倒立振子](https://twitter.com/aki202/status/1175674723226669057)
 
+### 👨‍🎓 career
 
+- `2008` Hosei University - dropped out
+- `2011` Forpeace, Inc. - software engineer
+- `2016` Bizer, Inc. - software enginner（PERSOL group since 2019）
+- `2021` University of Electro-Communications - bachelor's degree
 
 <!--
 **aki202/aki202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
