@@ -30,8 +30,8 @@
 ### 👨‍🎓 career
 
 - `2008` Hosei University - dropped out
-- `2011` Forpeace, Inc. - software engineer
-- `2016` Bizer, Inc. - software enginner（PERSOL group since 2019）
+- `2011` Forpeace Inc. - software engineer
+- `2016` Bizer Inc. - software enginner（PERSOL group since 2019）
 - `2021` University of Electro-Communications - bachelor's degree
 
 <!--
