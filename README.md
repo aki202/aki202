@@ -16,16 +16,16 @@
 
 ### ✏️ writing
 
-👀 そこそこ見てもらったエントリ
+そこそこ見てもらったエントリ = 👀
 
 - `2021`
-  - Webエンジニア(30歳)だけど4年かけて工学学士を取った 👀
-  - [フロントエンド] うわっ…Componentの凝集度、低すぎ？ 👀
+  - [Webエンジニア(30歳)だけど4年かけて工学学士を取った](https://qiita.com/aki202/items/aea846416f3739f48257) 👀
+  - [[フロントエンド] うわっ…Componentの凝集度、低すぎ？](https://qiita.com/aki202/items/b279fa8097dde82e2730) 👀
 - `2020`
-  - 僕らがJuliaを作ったワケ（和訳）[https://twitter.com/aki202/status/1276453342265266177](https://twitter.com/aki202/status/1276453342265266177)
+  - [僕らがJuliaを作ったワケ（和訳）](https://twitter.com/aki202/status/1276453342265266177)
 - `2019`
-  - メルカリで5000円で買った脳波計とElectronで車を動かすゲームを作る
-  - Rubyで学ぶ１年目に知っておきたいプログラミング技法８選 👀
+  - [メルカリで5000円で買った脳波計とElectronで車を動かすゲームを作る](https://qiita.com/aki202/items/2d7d386cc7656a7b97bd)
+  - [Rubyで学ぶ１年目に知っておきたいプログラミング技法８選](https://qiita.com/aki202/items/dc4b4a6f3df800528edb) 👀
 
 ### 🛠 building
 
