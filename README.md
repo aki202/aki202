@@ -2,8 +2,6 @@
 
 I'm front-end & server-side engineer. I've experienced the launching & exnapnsion phases in 2 start-ups. I received my bachelor's degree in engineering throught applied research in NLP. My hobby is Machine Learning & StarWars💫
 
-フロントエンド&サーバサイドエンジニア。２社のスタートアップでサービスの立ち上げと拡大期を経験。就業の傍ら、大学で自然言語処理の応用研究を行い工学学士を取得。趣味は機械学習と統計解析とスター・ウォーズ。
-
 ### ❤️ like
 
 - JS/TS/Ruby/Python/Go
