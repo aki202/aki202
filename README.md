@@ -28,8 +28,6 @@ I'm front-end & server-side engineer. I've experienced the launching & expansion
   - [脳波計で車を動かすゲーム](https://twitter.com/aki202/status/1162758414641950720)
   - [Q学習による迷路探索](https://twitter.com/aki202/status/1173202378276782082)
   - [Q学習による倒立振子](https://twitter.com/aki202/status/1175674723226669057)
-- `2015`
-  - [[iOS APP] Cookmark - 料理レシピをブックマーク](https://apps.apple.com/jp/app/%E6%96%99%E7%90%86%E3%83%AC%E3%82%B7%E3%83%94%E3%82%92%E3%83%96%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AF-for-%E3%82%AF%E3%83%83%E3%82%AF%E3%83%91%E3%83%83%E3%83%89-%E3%82%AF%E3%83%83%E3%82%AF%E3%83%9E%E3%83%BC%E3%82%AF/id936499582)
 
 ### 👨‍🎓 career
 
