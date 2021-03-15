@@ -12,6 +12,7 @@ I'm front-end & server-side engineer. I've experienced the launching & expansion
 そこそこ見てもらったエントリ = 👀
 
 - `2021`
+  - [論文] [複雑なSQL文を対象とするText-to-SQLのための逆翻訳を用いたデータ拡張](https://s3.amazonaws.com/test.borderworks.jp/research/text-to-sql-augmentation-paper_gt_03.pdf) ([Slide](https://s3.amazonaws.com/test.borderworks.jp/research/text-to-sql-augmentation_slide.pdf))
   - [Webエンジニア(30歳)だけど4年かけて工学学士を取った](https://qiita.com/aki202/items/aea846416f3739f48257) 👀
   - [[フロントエンド] うわっ…Componentの凝集度、低すぎ？](https://qiita.com/aki202/items/b279fa8097dde82e2730) 👀
 - `2020`
