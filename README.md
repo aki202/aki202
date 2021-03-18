@@ -32,8 +32,8 @@ I'm front-end & server-side engineer. I've experienced the launching & expansion
 ### 👨‍🎓 career
 
 - `2008` Hosei University - dropped out
-- `2011` Forpeace Inc. - software engineer
-- `2016` Bizer Inc. - software enginner（PERSOL group since 2019）
+- `2011` Forpeace, Inc. - software engineer
+- `2016` Bizer, Inc. - software enginner（PERSOL group since 2019）
 - `2021` University of Electro-Communications - bachelor's degree
 
 <!--
