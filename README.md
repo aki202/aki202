@@ -17,9 +17,9 @@ I'm front-end & server-side engineer. I've experienced the launching & expansion
   - [[フロントエンド] うわっ…Componentの凝集度、低すぎ？](https://qiita.com/aki202/items/b279fa8097dde82e2730) 👀
 - `2020`
   - [隠れマルコフモデル - Speech and Language Processing : Appendix A : Hidden Markov Models](https://www.slideshare.net/aki202/speech-and-language-processing-appendix-a-hidden-markov-models)
-  - [僕らがJuliaを作ったワケ（和訳）](https://twitter.com/aki202/status/1276453342265266177)
+  - [僕らがJuliaを作ったワケ（和訳）](https://twitter.com/aki202/status/1276453342265266177) 👀
 - `2019`
-  - [メルカリで5000円で買った脳波計とElectronで車を動かすゲームを作る](https://qiita.com/aki202/items/2d7d386cc7656a7b97bd)
+  - [メルカリで5000円で買った脳波計とElectronで車を動かすゲームを作る](https://qiita.com/aki202/items/2d7d386cc7656a7b97bd) 👀
   - [Rubyで学ぶ１年目に知っておきたいプログラミング技法８選](https://qiita.com/aki202/items/dc4b4a6f3df800528edb) 👀
 
 ### 🛠 building
