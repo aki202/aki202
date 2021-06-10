@@ -7,7 +7,7 @@ I'm front-end & server-side engineer. I've experienced the launching & expansion
 - JS/TS/Ruby/Python/Go
 - Machine Learning/Clean Architecture
 
-### ✏️ writing
+### ✏️ writing (in Japanese)
 
 そこそこ見てもらったエントリ = 👀
 
