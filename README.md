@@ -1,6 +1,6 @@
 ### 👨‍💻 about
 
-I'm front-end & server-side engineer. I've experienced the launching & expansion phases in two start-ups. I received my bachelor's degree in engineering through an applied research in Natural Language Processing. My hobby is Machine Learning & StarWars💫
+I'm front-end and server-side engineer. I've worked as programmer and tech-lead in small to large orgnizations. I like everything about software, but I has a strong interest in software architecture.
 
 ### ❤️ like
 
