@@ -5,7 +5,7 @@ I'm front-end and server-side engineer. I've worked as programmer and tech-lead 
 ### ❤️ like
 
 - JS/TS/Ruby/Python/Go
-- Machine Learning/Clean Architecture
+- Machine Learning/Architecture
 
 ### ✏️ writing (in Japanese)
 
