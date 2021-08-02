@@ -37,7 +37,7 @@ I'm front-end and server-side engineer. I've worked as programmer and tech-lead 
 - `2011` Forpeace, Inc. - software engineer
 - `2016` Bizer, Inc. - software enginner （PERSOL group since 2019）
 - `2021` University of Electro-Communications - bachelor's degree
-- `2022` Sansan, Inc. - software engineer
+- `2021` Sansan, Inc. - software engineer
 
 <!--
 **aki202/aki202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
