@@ -31,6 +31,7 @@ I'm front-end and server-side engineer. I've worked as programmer and tech-lead 
   - [Q学習による迷路探索](https://twitter.com/aki202/status/1173202378276782082)
   - [Q学習による倒立振子](https://twitter.com/aki202/status/1175674723226669057)
 
+<!--
 ### 👨‍🎓 career
 
 - `2008` Hosei University - dropped out
@@ -38,6 +39,7 @@ I'm front-end and server-side engineer. I've worked as programmer and tech-lead 
 - `2016` Bizer, Inc. - software enginner （PERSOL group since 2019）
 - `2021` University of Electro-Communications - bachelor's degree
 - `2021` Sansan, Inc. - software engineer
+-->
 
 <!--
 **aki202/aki202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
