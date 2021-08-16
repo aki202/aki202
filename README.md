@@ -12,6 +12,7 @@ I'm front-end and server-side engineer. I've worked as programmer and tech-lead 
 そこそこ見てもらったエントリ = 👀
 
 - `2021`
+  - [[ABC Metric] ソフトウェアメトリックを導入してクソコードを滅ぼす](https://qiita.com/aki202/items/2348fd246d7904e5dc3e)
   - [[React] Class ComponentとFunctional ComponentからHooksを呼び出しDRY原則を取り戻す](https://zenn.dev/aki202/articles/8e1bc896a2f6f8)
   - [なぜフロントエンド開発にStorybookを導入するのか](https://qiita.com/aki202/items/bd5a22813352d1834a93) 👀
   - [論文] [複雑なSQL文を対象とするText-to-SQLのための逆翻訳を用いたデータ拡張](https://s3.amazonaws.com/test.borderworks.jp/research/text-to-sql-augmentation-paper_gt_03.pdf) ([Slide](https://s3.amazonaws.com/test.borderworks.jp/research/text-to-sql-augmentation_slide.pdf))
