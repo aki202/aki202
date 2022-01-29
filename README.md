@@ -1,6 +1,6 @@
 ### 👨‍💻 about
 
-I'm front-end and server-side engineer. I've worked as programmer and tech-lead in small to large orgnizations. I like everything about software, but I has a strong interest in software architecture.
+I'm front-end and back-end engineer. I've worked as programmer and tech-lead in small to large orgnizations. I like everything about software, but I has a strong interest in software architecture and programming paradigm.
 
 ### ❤️ like
 
@@ -11,6 +11,8 @@ I'm front-end and server-side engineer. I've worked as programmer and tech-lead 
 
 そこそこ見てもらったエントリ = 👀
 
+- `2022`
+  - [Sansan Builders Book 02 @ 技術書典12](https://techbookfest.org/product/6551625332162560) 第2章 もう迷わないReactの状態管理
 - `2021`
   - [[ABC Metric] ソフトウェアメトリックを導入してクソコードを滅ぼす](https://qiita.com/aki202/items/2348fd246d7904e5dc3e)
   - [[React] Class ComponentとFunctional ComponentからHooksを呼び出しDRY原則を取り戻す](https://zenn.dev/aki202/articles/8e1bc896a2f6f8)
