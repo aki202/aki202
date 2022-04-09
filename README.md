@@ -31,8 +31,6 @@ I'm front-end and back-end engineer. I've worked as programmer and tech-lead in 
 
 - `2019`
   - [脳波計で車を動かすゲーム](https://twitter.com/aki202/status/1162758414641950720)
-  - [Q学習による迷路探索](https://twitter.com/aki202/status/1173202378276782082)
-  - [Q学習による倒立振子](https://twitter.com/aki202/status/1175674723226669057)
 
 <!--
 ### 👨‍🎓 career
