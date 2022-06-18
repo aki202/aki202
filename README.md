@@ -7,6 +7,12 @@ I'm front-end and back-end engineer. I've worked as programmer and tech-lead in 
 - JS/TS/Ruby/Python/Go
 - Machine Learning/Software Architecture/Programming Paradiagm
 
+### 🌏 internet
+
+- [Zenn](https://zenn.dev/aki202)
+- [Qiita](https://qiita.com/aki202)
+- [Twitter](https://twitter.com/aki202)
+
 ### ✏️ writing (in Japanese)
 
 そこそこ見てもらったエントリ = 👀
