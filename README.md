@@ -17,6 +17,7 @@ I'm front-end and back-end engineer. I've worked as programmer and tech-lead in 
 そこそこ見てもらったエントリ = 👀
 
 - `2022`
+  - [今さら聞けないビジュアルリグレッションテストをChromaticで始める](https://buildersbox.corp-sansan.com/entry/2022/08/01/110000) 👀
   - [ts-patternでTypeScriptにパターンマッチングを持ち込み、より型安全な世界へ](https://zenn.dev/aki202/articles/5d725c080640f9) 👀
   - [Sansan Builders Book 02 @ 技術書典12](https://techbookfest.org/product/6551625332162560) 第2章 もう迷わないReactの状態管理
 - `2021`
