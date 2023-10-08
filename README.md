@@ -36,6 +36,11 @@ I'm front-end and back-end engineer. I've worked as programmer and tech-lead in 
   - [メルカリで5000円で買った脳波計とElectronで車を動かすゲームを作る](https://qiita.com/aki202/items/2d7d386cc7656a7b97bd) 👀
   - [Rubyで学ぶ１年目に知っておきたいプログラミング技法８選](https://qiita.com/aki202/items/dc4b4a6f3df800528edb) 👀
 
+### 🛠 talks
+
+- `2023`
+  - [TypeScriptを活用した型安全なチーム開発](https://sansan.connpass.com/event/292695/)
+
 ### 🛠 building
 
 - `2019`
