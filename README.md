@@ -1,6 +1,6 @@
 ### 👨‍💻 about
 
-I'm front-end and back-end engineer. I've worked as programmer and tech-lead in small to large orgnizations. I like everything about software, but I has a strong interest in software architecture and programming paradigm.
+I'm an engineer with expertise in both front-end and back-end development. I've served as a programmer and technical lead in organizations ranging from small startups to large enterprises. My passion encompasses all facets of software creation, with a strong inclination towards software architecture and programming paradigms.
 
 ### ❤️ like
 
