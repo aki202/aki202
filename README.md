@@ -17,6 +17,7 @@ I'm an engineer with expertise in both front-end and back-end development. I've 
 そこそこ見てもらったエントリ = 👀
 
 - `2023`
+  - [ポスト資本主義におけるソフトウェアエンジニア](https://zenn.dev/aki202/articles/b5348c134395c9)👀
   - [TypeScriptプロジェクトにスキーマ駆動開発を持ち込み、より型安全な世界へ](https://buildersbox.corp-sansan.com/entry/2023/08/14/182118)👀
 - `2022`
   - [今さら聞けないビジュアルリグレッションテストをChromaticで始める](https://buildersbox.corp-sansan.com/entry/2022/08/01/110000) 👀
