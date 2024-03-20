@@ -10,7 +10,7 @@ I'm an engineer with expertise in both front-end and back-end development. I've 
 
 ### 🌏 internet
 
-[Zenn](https://zenn.dev/aki202) / [Qiita](https://qiita.com/aki202) / [Twitter](https://twitter.com/aki202)
+[Zenn](https://zenn.dev/aki202) / [Qiita](https://qiita.com/aki202) / [X](https://twitter.com/aki202)
 
 ### ✏️ writing (in Japanese)
 
