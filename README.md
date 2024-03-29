@@ -17,6 +17,7 @@ I'm an engineer with expertise in both front-end and back-end development. I've 
 そこそこ見てもらったエントリ = 👀
 
 - `2024`
+  - [TypeScript開発にRailway Orientedを持ち込み、より型安全なエラーハンドリングへ](https://buildersbox.corp-sansan.com/entry/2024/03/26/110000) 👀
   - [ポスト資本主義におけるソフトウェアエンジニア](https://zenn.dev/aki202/articles/b5348c134395c9) 👀
 - `2023`
   - [TypeScriptプロジェクトにスキーマ駆動開発を持ち込み、より型安全な世界へ](https://buildersbox.corp-sansan.com/entry/2023/08/14/182118) 👀
