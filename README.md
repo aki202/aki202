@@ -10,14 +10,15 @@ I'm an engineer with expertise in both front-end and back-end development. I've 
 
 ### 🌏 internet
 
-[Zenn](https://zenn.dev/aki202) / [Qiita](https://qiita.com/aki202) / [X](https://twitter.com/aki202)
+[Note](https://note.com/aki202) / [Zenn](https://zenn.dev/aki202) / [Qiita](https://qiita.com/aki202) / [X](https://twitter.com/aki202)
 
 ### ✏️ writing (in Japanese)
 
 そこそこ見てもらったエントリ = 👀
 
 - `2024`
-  - [ポストSaaSとしてのONCEモデル](https://note.com/aki202/n/n469fd7c5b275)
+  - [SNSは本当に世界を縮めたか](https://note.com/aki202/n/n37f40e22b3e3) 👀
+  - [ポストSaaSとしてのONCEモデル](https://note.com/aki202/n/n469fd7c5b275) 
   - [TypeScript開発にRailway Orientedを持ち込み、より型安全なエラーハンドリングへ](https://buildersbox.corp-sansan.com/entry/2024/03/26/110000) 👀
   - [ポスト資本主義におけるソフトウェアエンジニア](https://zenn.dev/aki202/articles/b5348c134395c9) 👀
 - `2023`
