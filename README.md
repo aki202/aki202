@@ -17,8 +17,11 @@ I'm an engineer with expertise in both front-end and back-end development. I've 
 そこそこ見てもらったエントリ = 👀
 
 - `2024`
+  - [AIがエンジニアの仕事を奪う、はどこまで本当か](https://note.com/aki202/n/nd533036f97f4)
+  - [SHEINで物を買う後ろめたさ](https://note.com/aki202/n/nd505ea4137db)
+  - [世界は物語でしか変わらない](https://note.com/aki202/n/nc393bde9be96)
   - [SNSは本当に世界を縮めたか](https://note.com/aki202/n/n37f40e22b3e3) 👀
-  - [ポストSaaSとしてのONCEモデル](https://note.com/aki202/n/n469fd7c5b275) 
+  - [ポストSaaSとしてのONCEモデル](https://note.com/aki202/n/n469fd7c5b275) 👀
   - [TypeScript開発にRailway Orientedを持ち込み、より型安全なエラーハンドリングへ](https://buildersbox.corp-sansan.com/entry/2024/03/26/110000) 👀
   - [ポスト資本主義におけるソフトウェアエンジニア](https://zenn.dev/aki202/articles/b5348c134395c9) 👀
 - `2023`
