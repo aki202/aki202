@@ -16,7 +16,10 @@ I'm an engineer with expertise in both front-end and back-end development. I've 
 
 そこそこ見てもらったエントリ = 👀
 
+- `2025`
+  - [ソフトウェアとコンストラクタル法則](https://note.com/aki202/n/nc3d34a38989e)
 - `2024`
+  - [TypeScript開発にモジュラーモノリスを持ち込む](https://buildersbox.corp-sansan.com/entry/2024/11/20/120000) 👀
   - [AIがエンジニアの仕事を奪う、はどこまで本当か](https://note.com/aki202/n/nd533036f97f4)
   - [SHEINで物を買う後ろめたさ](https://note.com/aki202/n/nd505ea4137db)
   - [世界は物語でしか変わらない](https://note.com/aki202/n/nc393bde9be96)
@@ -45,6 +48,8 @@ I'm an engineer with expertise in both front-end and back-end development. I've 
 
 ### 🛠 talks
 
+- `2024`
+  - [TypeScriptを活用した型安全なチーム開発 2024](https://sansan.connpass.com/event/337268/)
 - `2023`
   - [TypeScriptを活用した型安全なチーム開発](https://sansan.connpass.com/event/292695/)
 
