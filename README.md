@@ -4,7 +4,6 @@ I'm an engineer with expertise in both front-end and back-end development. I've 
 
 ### ❤️ like
 
-- JS/TS/Rust/Go
 - Software Architecture/Programming Paradiagm/Machine Learning
 - History of Computer Science
 
