@@ -16,6 +16,8 @@ I'm an engineer with expertise in both front-end and back-end development. I've 
 そこそこ見てもらったエントリ = 👀
 
 - `2025`
+  - [ソフトウェアエンジニアとその不幸](https://note.com/aki202/n/n816bb5cd482b) 👀
+  - [暇と退屈とソフトウェアエンジニア](https://note.com/aki202/n/nea95e03c4d83)
   - [ソフトウェアとコンストラクタル法則](https://note.com/aki202/n/nc3d34a38989e)
 - `2024`
   - [TypeScript開発にモジュラーモノリスを持ち込む](https://buildersbox.corp-sansan.com/entry/2024/11/20/120000) 👀
