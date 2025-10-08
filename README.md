@@ -16,6 +16,7 @@ I'm an engineer with expertise in both front-end and back-end development. I've 
 そこそこ見てもらったエントリ = 👀
 
 - `2025`
+  - [Vibe Codingで非エンジニアに開発を担ってもらう技術](https://zenn.dev/coten/articles/c97af3aad358fd)
   - [ソフトウェアエンジニアとその不幸](https://note.com/aki202/n/n816bb5cd482b) 👀
   - [暇と退屈とソフトウェアエンジニア](https://note.com/aki202/n/nea95e03c4d83)
   - [ソフトウェアとコンストラクタル法則](https://note.com/aki202/n/nc3d34a38989e)
@@ -47,6 +48,8 @@ I'm an engineer with expertise in both front-end and back-end development. I've 
 
 ### 🛠 talks
 
+- `2025`
+  - [Findy 『TypeScriptのスキーマ駆動開発』実践事例 LT](https://findy.connpass.com/event/368365/)
 - `2024`
   - [TypeScriptを活用した型安全なチーム開発 2024](https://sansan.connpass.com/event/337268/)
 - `2023`
