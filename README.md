@@ -46,7 +46,7 @@ I'm an engineer with expertise in both front-end and back-end development. I've 
   - [メルカリで5000円で買った脳波計とElectronで車を動かすゲームを作る](https://qiita.com/aki202/items/2d7d386cc7656a7b97bd) 👀
   - [Rubyで学ぶ１年目に知っておきたいプログラミング技法８選](https://qiita.com/aki202/items/dc4b4a6f3df800528edb) 👀
 
-### 🛠 talks
+### 📣 talks
 
 - `2025`
   - [Findy 『TypeScriptのスキーマ駆動開発』実践事例 LT](https://findy.connpass.com/event/368365/)
@@ -54,6 +54,11 @@ I'm an engineer with expertise in both front-end and back-end development. I've 
   - [TypeScriptを活用した型安全なチーム開発 2024](https://sansan.connpass.com/event/337268/)
 - `2023`
   - [TypeScriptを活用した型安全なチーム開発](https://sansan.connpass.com/event/292695/)
+
+### 👤 interview
+
+- `2025` [“社会的意義を語れる開発”を求めて──COTENで見つけた、ソーシャルグッドなエンジニアリング 株式会社COTEN](https://note.com/coten_inc/n/n0ecd501cb34f)
+- `2023` [入社後のホンネ Sansan株式会社](https://jp.corp-sansan.com/mimi/2023/04/honne-20.html)
 
 ### 🛠 building
 
