@@ -48,6 +48,9 @@ I'm an engineer with expertise in both front-end and back-end development. I've 
 
 ### 📣 talks
 
+- `2026`
+  - [工務店のためのAI実践講座](https://orism.jp/topics/934/)
+  - [工務店の社員1人分の仕事を、AIエージェントに任せる方法](https://orism.jp/topics/%E5%B7%A5%E5%8B%99%E5%BA%97%E3%81%AE%E7%A4%BE%E5%93%A11%E4%BA%BA%E5%88%86%E3%81%AE%E4%BB%95%E4%BA%8B%E3%82%92%E3%80%81ai%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%81%AB%E4%BB%BB/)
 - `2025`
   - [Findy 『TypeScriptのスキーマ駆動開発』実践事例 LT](https://findy.connpass.com/event/368365/)
 - `2024`
